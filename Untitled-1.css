@@ -1,0 +1,61 @@
+#thanhdieuhuong #thanhdieuhuong2
+{
+ overflow: hidden;
+ background-color: rgb(252, 250, 243);
+}
+#thanhdieuhuong1 a {
+    float: left;
+    display: block;
+    color: #524949;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-style: arial;
+  }
+#thanhdieuhuong2 a {
+    float: right;
+    display: block;
+    color: #524949;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-style: arial;
+  }
+.anhnen{
+    background-image: url(https://s3.amazonaws.com/codecademy-content/courses/ltp/img/lodging.png);
+    color:white;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 1250px;
+    height: 600px;
+    background-position: 50px 50px ;
+}
+body {
+    background-color: rgb(255, 251, 246);
+}
+li {
+    display:inline;
+}
+#trai {
+    width:400px ;
+    height:600px ;
+    float:left;
+}
+#giua {
+    width:400px ;
+    height:600px ;
+    float:left;
+}
+#phai {
+    width:400px ;
+    height:600px ;
+    float:left;
+}
+#wrap {
+     width: 1300px;
+     margin: 0px 0px 0px 70px;
+}
+#wrap2 {
+    width: 1200px;
+    margin: 0px 150px 0px 0px;
+}
